@@ -1,0 +1,1 @@
+# PUBGM-1.8-Global-Memory-Offset-32Bit
