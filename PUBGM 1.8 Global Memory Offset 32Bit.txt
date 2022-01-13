@@ -1,0 +1,56 @@
+X-effect
+HEX : 00 00 00 00
+offset:0x1b918c4
+
+HACK :No recoil
+HEX :00 00 00 00
+offset:0x119e2d4
+
+IPAD VIEW
+HEX :00 00 8C 43
+offset:0x3c24c14
+
+Purple fog
+HEX :00 00 00 00
+offset:0x30612ec
+
+HACK :Cayon fog
+HEX :00 00 00 00
+offset:0x30612dc
+
+HACK :AIMLOCK
+HEX :00 00 00 00
+offset:0x287728c
+
+SMALL CROSSHAIR
+HEX : 00 00 A0 40
+offset:0x13b75c4
+
+HACK : LONG HAND
+HEX : 00 00 00 00
+offset:0x286e56c
+
+BlackSky
+HEX : B0 C6 27 B7
+offset:0x3ee65b0
+
+HACK :BlackBody
+HEX : 00 00 20 41
+offset:0x30ebc38
+
+Headshot
+HEX :2E 00 00 00
+offset:0x405ea48
+
+HACK :Wall loot
+HEX : 00 00 00 00
+offset:0x49a0664
+
+No grass
+HEX :00 00 00 00
+offset:0x28456f8
+
+wall shoot
+HEX :00 00 00 00
+offset:0x4996fac
+__________________
